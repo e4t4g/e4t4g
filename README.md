@@ -2,10 +2,11 @@
 <h1 align="center"> Hi there 👋 I`m Juliana </h1>
 
 - 🌞 I switched from finance to programming
-- 🌱 I`m currently learning Golang at [GeekBranis academy](https://gb.ru)
-- 🕵️‍♀️ I`m looking for an Intern Golang Developer position 
+- 🌱 Currently learning Go (Golang) at [GeekBranis academy](https://gb.ru)
+- 🕵️‍♀️ I am seeking an internship as a Go developer 
 - 🔭 My latest project is [URL shortener server](http://e4t4g.xyz)
 - 📫 How to reach me: **juliana.z0905@gmail.com**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
@@ -24,3 +25,6 @@ alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" 
 height="40"/> </a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e4t4g&show_icons=true&locale=en&theme=synthwave" alt="noisersup" /></p>
+
+
+Thank you for visiting my profile!
