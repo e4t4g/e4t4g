@@ -3,8 +3,8 @@
 
 - 🌞 I switched from finance to programming
 - 🌱 Currently learning Go (Golang) at [GeekBranis academy](https://gb.ru)
-- 🕵️‍♀️ I am seeking an internship as a Go developer 
-- 🔭 My latest project is [URL shortener server](http://e4t4g.xyz)
+- 🕵️‍♀️ I am seeking an internship as a Go developer and I am excited to apply my skills and knowledge to real-world projects. 
+- 🔭 One of my latest projects is a URL shortener server [URL shortener server](http://e4t4g.xyz)
 - 📫 How to reach me: **juliana.z0905@gmail.com**
 
 
