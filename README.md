@@ -24,7 +24,4 @@ alt="docker" width="50" height="40"/> </a> <a href="https://git-scm.com/" target
 alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean" width="50"
 height="40"/> </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e4t4g&show_icons=true&locale=en&theme=synthwave" alt="noisersup" /></p>
-
-
 Thank you for visiting my profile!
