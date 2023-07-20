@@ -2,8 +2,8 @@
 <h1 align="center"> Hi there 👋 I`m Juliana </h1>
 
 - 🌞 I switched from finance to programming
-- 🌱 Currently learning Go (Golang) at [GeekBranis academy](https://gb.ru)
-- 🕵️‍♀️ I am seeking an internship as a Go developer and I am excited to apply my skills and knowledge to real-world projects. 
+- 🌱  I graduated from [GeekBranis academy](https://gb.ru) in 2023
+- 🕵️‍♀️ Currently, I am engaged in freelance work on Upwork. 
 - 🔭 One of my latest group projects is a backend realization for the online store [Cozy Dragon](http://cozydragon.online)
 - 📫 How to reach me: **juliana.z0905@gmail.com**
 
