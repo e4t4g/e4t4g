@@ -4,7 +4,7 @@
 - 🌞 I switched from finance to programming
 - 🌱  I graduated from [GeekBranis academy](https://gb.ru) in 2023
 - 🕵️‍♀️ Currently, I am engaged in freelance work on Upwork. 
-- 🔭 One of my latest group projects is a backend realization for the online store [Cozy Dragon](http://cozydragon.online)
+- 🔭 One of my latest group projects is a backend realization for the online store [Cozy Dragon](https://github.com/GBteammates/OnlineShopBackend)
 - 📫 How to reach me: **juliana.z0905@gmail.com**
 
 
